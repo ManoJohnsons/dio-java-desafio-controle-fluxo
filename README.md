@@ -1,18 +1,5 @@
-## Getting Started
+# DIO | Desafio: Criando um Contador Simples
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório tem a finalidade de armazenar o projeto proposto pelo desafio da DIO de criar um simples contador.  
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Este projeto determina ainda mais o meu conhecimento sobre Java, fluxos condicionais, estruturas de repetições e tratamento de exceções.
